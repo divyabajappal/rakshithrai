@@ -6,10 +6,3 @@ printf("hello");
 {
 printf("hai");
 }
-int main()
-{
-hello();
-hai();
-printf("hellohello");
-printf("haihai");
-}
